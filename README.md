@@ -89,3 +89,21 @@ hospital-readmissions-analysis/
 Mimansa Nath  
 Graduate Student — Information Technology & Management  
 Healthcare Analytics | Data Engineering | AI
+
+## 📈 Key Results
+
+- Identified hospitals with highest readmission penalties
+- Analyzed state-wise healthcare performance trends
+- Visualized Medicare risk factors using Tableau dashboards
+- Improved understanding of healthcare operational KPIs
+
+---
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/mimansanath09-prog/hospital-readmissions-analysis.git
+
+pip install -r requirements.txt
+
+jupyter notebook
